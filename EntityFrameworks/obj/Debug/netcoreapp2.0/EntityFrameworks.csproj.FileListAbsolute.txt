@@ -1,0 +1,11 @@
+C:\Users\Vijay.Boppana\source\repos\EntityFrameworks\EntityFrameworks\bin\Debug\netcoreapp2.0\EntityFrameworks.deps.json
+C:\Users\Vijay.Boppana\source\repos\EntityFrameworks\EntityFrameworks\bin\Debug\netcoreapp2.0\EntityFrameworks.runtimeconfig.json
+C:\Users\Vijay.Boppana\source\repos\EntityFrameworks\EntityFrameworks\bin\Debug\netcoreapp2.0\EntityFrameworks.runtimeconfig.dev.json
+C:\Users\Vijay.Boppana\source\repos\EntityFrameworks\EntityFrameworks\bin\Debug\netcoreapp2.0\EntityFrameworks.dll
+C:\Users\Vijay.Boppana\source\repos\EntityFrameworks\EntityFrameworks\bin\Debug\netcoreapp2.0\EntityFrameworks.pdb
+C:\Users\Vijay.Boppana\source\repos\EntityFrameworks\EntityFrameworks\obj\Debug\netcoreapp2.0\EntityFrameworks.csprojAssemblyReference.cache
+C:\Users\Vijay.Boppana\source\repos\EntityFrameworks\EntityFrameworks\obj\Debug\netcoreapp2.0\EntityFrameworks.csproj.CoreCompileInputs.cache
+C:\Users\Vijay.Boppana\source\repos\EntityFrameworks\EntityFrameworks\obj\Debug\netcoreapp2.0\EntityFrameworks.AssemblyInfoInputs.cache
+C:\Users\Vijay.Boppana\source\repos\EntityFrameworks\EntityFrameworks\obj\Debug\netcoreapp2.0\EntityFrameworks.AssemblyInfo.cs
+C:\Users\Vijay.Boppana\source\repos\EntityFrameworks\EntityFrameworks\obj\Debug\netcoreapp2.0\EntityFrameworks.dll
+C:\Users\Vijay.Boppana\source\repos\EntityFrameworks\EntityFrameworks\obj\Debug\netcoreapp2.0\EntityFrameworks.pdb
